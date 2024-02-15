@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "@cerc-io/test-progressive-web-app",
+  "name": "@deepstack/test-progressive-web-app",
   "version": "0.1.18",
-  "repository": "https://git.vdb.to/cerc-io/test-progressive-web-app",
+  "repository": "https://github.com/snowball-test/test-progressive-web-app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
